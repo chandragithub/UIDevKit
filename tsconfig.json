@@ -22,5 +22,10 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "typedocOptions": {
+    "name": "Enterprise React App Scaffold",
+    "entryPoints": ["src"],
+    "out": "docs"
+  }
 }
